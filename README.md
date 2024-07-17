@@ -1,4 +1,4 @@
-# TRXhunt (TRON Address And PrivateKey Hunting)
+# TRXFinder (TRON Address And PrivateKey Hunting)
 
 ---
 
@@ -16,7 +16,7 @@ First install this package's:
 ```
 pip install tronpy
 pip install tronapi
-git clone https://github.com/NitinNegi007/crypto-hunter
+git clone https://github.com/l3ktu/trx-finder/
 cd crypto-hunter
 ```
 After:
